@@ -4,5 +4,12 @@
   "description": "Learn Gulp by building an awesome development environment",
   "repository": "https://github.com/nomadcoders/super-gulp",
   "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
