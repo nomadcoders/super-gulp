@@ -15,5 +15,8 @@
     "@babel/register": "^7.4.4",
     "gulp": "^4.0.2",
     "gulp-pug": "^4.0.1"
+  },
+  "dependencies": {
+    "del": "^4.1.1"
   }
 }
